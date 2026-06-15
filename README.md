@@ -13,3 +13,6 @@ Do This
 # Contributing
 Adding to our content
 ### Test
+
+# Langauges
+Python, Go, SQL
